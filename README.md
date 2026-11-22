@@ -107,9 +107,3 @@ Make sure your webcam is connected and accessible before running the application
 Naga Akshitha Gunuguntla
 
 GitHub: [Akshithag21](https://github.com/Akshithag21)
-
----
-
-⭐ If you find this project interesting, consider giving the repository a star!
-
-**Built with Python, OpenCV, MediaPipe and PyAutoGUI.**
